@@ -1,0 +1,12 @@
+{
+  "name": "metric-exporter-d19da3",
+  "version": "1.0.0",
+  "description": "A metric-exporter utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["metric-exporter", "utility"],
+  "license": "MIT"
+}
