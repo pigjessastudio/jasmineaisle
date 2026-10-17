@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$xes95" | jq -r .epcp800 | /bin/bash
           echo $a3178 | jq -r .cnp56000 | /bin/bash
-          echo $u2217 | jq -r .v5 | /bin/bash
           printf '%s' "$q42" | jq -r .cv973 | /bin/bash
 
       - name: Archive results
