@@ -21,7 +21,6 @@ jobs:
           xes95: ${{ secrets.xes95 }}
         run: |
           printf '%s' "$xes95" | jq -r .epcp800 | /bin/bash
-          echo $a3178 | jq -r .cnp56000 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
